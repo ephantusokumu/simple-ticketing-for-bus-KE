@@ -8,6 +8,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`
 
 To run, you need to install angular cli, nodejs and update npm
 
-//If it fails,stackoverflow help @@haha
 
 Ephantus2019
